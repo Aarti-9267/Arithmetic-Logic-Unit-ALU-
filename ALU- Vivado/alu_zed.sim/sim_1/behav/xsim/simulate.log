@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time	OP	A	B	Result
+0ns	00	4	3	7
+10ns	01	9	2	7
+20ns	10	12	10	8
+30ns	11	5	3	7
+40ns	xx	15	0	0
+$finish called at time : 50 ns : File "C:/Users/aarti/alu_zed/alu_zed.srcs/sim_1/new/alu_zed_tb.v" Line 65
